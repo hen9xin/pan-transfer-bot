@@ -1,0 +1,94 @@
+# ==========================================
+# 个人隐私与凭证安全 (Secrets & Credentials)
+# ==========================================
+.env
+.env.*
+!.env.example
+settings.json
+settings.json.*
+!settings.json.example
+*.cookie
+*.cookies
+cookies/
+
+# ==========================================
+# Python 编译文件与缓存 (Byte-compiled / Cache)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# 虚拟环境 (Virtual Environments)
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ==========================================
+# 临时文件与日志 (Logs & Temp Files)
+# ==========================================
+*.log
+logs/
+*.ldb
+*.sqlite
+*.sqlite3
+*.db
+tmp/
+temp/
+
+# ==========================================
+# 操作系统与 IDE 配置 (Editor & OS Artifacts)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# ==========================================
+# 测试与覆盖率 (Testing & Coverage)
+# ==========================================
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
