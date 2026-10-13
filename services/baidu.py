@@ -3,6 +3,7 @@
 实现百度网盘链接的验证、文件列表获取、按日期层级自动归档转存与专属重新分享功能。
 """
 
+import os
 import asyncio
 from datetime import datetime
 import logging

@@ -9,7 +9,7 @@ import glob
 import re
 import json
 import logging
-from typing import Dict, Tuple
+from typing import Any, Dict, Tuple
 
 logger = logging.getLogger(__name__)
 
