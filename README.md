@@ -242,7 +242,26 @@ Cookies stay on your machine (`settings.json` / `.env`, both git-ignored); don't
 3. 请尊重数字资源版权，切勿利用本工具传播侵权或违法违规内容。
 4. 使用者因操作不当或违反平台规定所产生的后果由使用者自行承担，与本项目开发者无关。
 
-This project is for learning and personal productivity only. Respect copyright and platform terms of service.
+*This project is for learning and personal productivity only. Respect copyright and platform terms of service.*
+
+---
+
+### 💖 赞助与支持 / Support & Sponsor
+
+如果本项目切实帮您节省了繁琐的手动操作时间、提升了推特运营效率，欢迎请作者喝一杯咖啡 ☕ 您的支持是本项目持续优化迭代与维护的最大动力！
+
+If this project helps you save time and automate your social media workflow, consider buying the author a coffee ☕! Your support keeps this open-source project actively maintained.
+
+<div align="center">
+
+| 微信赞助 (WeChat Pay) |
+| :---: |
+| <img src="assets/sponsor_wechat.jpg" alt="WeChat Pay" width="260" /> |
+| **扫码支持作者 · 感谢每一份心意与鼓励 ❤️**<br><sub>Scan with WeChat to support the developer</sub> |
+
+</div>
+
+---
 
 ### 📄 License
 
